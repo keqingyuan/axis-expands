@@ -13,7 +13,7 @@
     <dependencies>
         <dependency>
             <groupId>org.axis</groupId>
-            <artifactId>axis-commons</artifactId>
+            <artifactId>axis-common</artifactId>
         </dependency>
         <dependency>
             <groupId>org.axis</groupId>

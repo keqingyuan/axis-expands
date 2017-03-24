@@ -20,7 +20,7 @@
 
         <dependency>
             <groupId>org.axis</groupId>
-            <artifactId>axis-commons</artifactId>
+            <artifactId>axis-common</artifactId>
         </dependency>
         <!-- log start -->
         <dependency>
