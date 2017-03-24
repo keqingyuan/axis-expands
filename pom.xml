@@ -4,18 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.hsweb</groupId>
-    <artifactId>hsweb-expands</artifactId>
+    <groupId>org.axis</groupId>
+    <artifactId>axis-expands</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>hsweb-expands-script</module>
-        <module>hsweb-expands-office</module>
-        <module>hsweb-expands-request</module>
-        <module>hsweb-expands-shell</module>
-        <module>hsweb-expands-compress</module>
-        <module>hsweb-expands-template</module>
-        <module>hsweb-expands-security</module>
+        <module>axis-expands-script</module>
+        <module>axis-expands-office</module>
+        <module>axis-expands-request</module>
+        <module>axis-expands-shell</module>
+        <module>axis-expands-compress</module>
+        <module>axis-expands-template</module>
+        <module>axis-expands-security</module>
     </modules>
     <properties>
         <!-- base setting -->
@@ -70,13 +70,13 @@
             </dependency>
 
             <dependency>
-                <groupId>org.hsweb</groupId>
-                <artifactId>hsweb-commons</artifactId>
+                <groupId>org.axis</groupId>
+                <artifactId>axis-commons</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.hsweb</groupId>
-                <artifactId>hsweb-expands-script</artifactId>
+                <groupId>org.axis</groupId>
+                <artifactId>axis-expands-script</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
