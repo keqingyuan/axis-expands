@@ -1,6 +1,5 @@
 package org.hsweb.expands.compress;
 
-import org.hsweb.commons.MD5;
 import org.hsweb.commons.file.FileUtils;
 import org.hsweb.expands.compress.zip.ZIPReader;
 import org.junit.Assert;
